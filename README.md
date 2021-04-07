@@ -4,7 +4,7 @@ Some readings which are Underrated.
 — PolVilniusTech 
 — If the Quality of Documentation is Superb, then You would share it with All Your Team as it is at CERN.
 
-# Internet — The World Wide Web
+# from Internet — to the World Wide Web
 
 ### Introduction to the Internet @cern
 [Thesis - Internet](https://www.w3.org/People/Frystyk/thesis/Internet.html)
