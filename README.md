@@ -1,5 +1,5 @@
 # Reading.list.md
-Some readings which are Underrated.
+Some readings related with Technologies.
 
 — PolVilniusTech 
 — If the Quality of Documentation is Superb, then You would share it with All Your Team as it is at CERN.
